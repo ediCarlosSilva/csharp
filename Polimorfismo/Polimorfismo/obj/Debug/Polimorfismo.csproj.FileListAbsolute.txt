@@ -1,0 +1,6 @@
+C:\Users\Edi Carlos\git\cursoCsharp\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Edi Carlos\git\cursoCsharp\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\Edi Carlos\git\cursoCsharp\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\Edi Carlos\git\cursoCsharp\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csprojResolveAssemblyReference.cache
+C:\Users\Edi Carlos\git\cursoCsharp\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\Edi Carlos\git\cursoCsharp\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb
