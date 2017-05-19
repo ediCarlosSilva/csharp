@@ -1,0 +1,6 @@
+C:\Users\Edi Carlos\git\cursoCsharp\Logica\Logica\bin\Debug\Logica.exe.config
+C:\Users\Edi Carlos\git\cursoCsharp\Logica\Logica\bin\Debug\Logica.exe
+C:\Users\Edi Carlos\git\cursoCsharp\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\Edi Carlos\git\cursoCsharp\Logica\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Edi Carlos\git\cursoCsharp\Logica\Logica\obj\Debug\Logica.exe
+C:\Users\Edi Carlos\git\cursoCsharp\Logica\Logica\obj\Debug\Logica.pdb

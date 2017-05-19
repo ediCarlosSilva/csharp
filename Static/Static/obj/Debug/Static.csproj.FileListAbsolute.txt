@@ -1,0 +1,5 @@
+C:\Users\Edi Carlos\git\cursoCsharp\Static\Static\bin\Debug\Static.exe.config
+C:\Users\Edi Carlos\git\cursoCsharp\Static\Static\bin\Debug\Static.exe
+C:\Users\Edi Carlos\git\cursoCsharp\Static\Static\bin\Debug\Static.pdb
+C:\Users\Edi Carlos\git\cursoCsharp\Static\Static\obj\Debug\Static.exe
+C:\Users\Edi Carlos\git\cursoCsharp\Static\Static\obj\Debug\Static.pdb

@@ -1,0 +1,6 @@
+C:\Users\Edi Carlos\git\cursoCsharp\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Edi Carlos\git\cursoCsharp\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Edi Carlos\git\cursoCsharp\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Edi Carlos\git\cursoCsharp\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Edi Carlos\git\cursoCsharp\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Edi Carlos\git\cursoCsharp\Arrays\Arrays\obj\Debug\Arrays.pdb

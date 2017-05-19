@@ -1,0 +1,6 @@
+C:\Users\Edi Carlos\git\cursoCsharp\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+C:\Users\Edi Carlos\git\cursoCsharp\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe
+C:\Users\Edi Carlos\git\cursoCsharp\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\Edi Carlos\git\cursoCsharp\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csprojResolveAssemblyReference.cache
+C:\Users\Edi Carlos\git\cursoCsharp\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+C:\Users\Edi Carlos\git\cursoCsharp\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb

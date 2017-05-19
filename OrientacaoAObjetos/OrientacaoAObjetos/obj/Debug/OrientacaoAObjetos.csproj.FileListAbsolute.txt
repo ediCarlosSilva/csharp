@@ -1,0 +1,6 @@
+C:\Users\Edi Carlos\git\cursoCsharp\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe.config
+C:\Users\Edi Carlos\git\cursoCsharp\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe
+C:\Users\Edi Carlos\git\cursoCsharp\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.pdb
+C:\Users\Edi Carlos\git\cursoCsharp\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.csprojResolveAssemblyReference.cache
+C:\Users\Edi Carlos\git\cursoCsharp\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.exe
+C:\Users\Edi Carlos\git\cursoCsharp\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.pdb
